@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/planet-aqua-pool-btm-website/static/css/main.55cf2c6f.css",
+    "main.js": "/planet-aqua-pool-btm-website/static/js/main.b2c49287.js",
+    "index.html": "/planet-aqua-pool-btm-website/index.html",
+    "main.55cf2c6f.css.map": "/planet-aqua-pool-btm-website/static/css/main.55cf2c6f.css.map",
+    "main.b2c49287.js.map": "/planet-aqua-pool-btm-website/static/js/main.b2c49287.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.55cf2c6f.css",
+    "static/js/main.b2c49287.js"
+  ]
+}
